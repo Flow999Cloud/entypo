@@ -1,0 +1,38 @@
+{
+  "name": "entypo-sass",
+  "homepage": "https://github.com/Flow999Cloud/entypo",
+  "authors": [
+    "Flow999Cloud <flowcloud@outlook.com>"
+  ],
+  "description": "Carefully crafted premium pictograms by Daniel Bruce",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Flow999Cloud/entypo.git"
+  },
+  "main": [
+    "css/entypo.css",
+    "less/entypo.less",
+    "scss/entypo.scss",
+    "fonts/entypo.eot",
+    "fonts/entypo.woff",
+    "fonts/entypo.ttf",
+    "fonts/entypo.svg"
+  ],
+  "keywords": [
+    "entypo",
+    "font",
+    "bower",
+    "sass",
+    "less",
+    "scss"
+  ],
+  "license": "CC BY-SA 4.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
